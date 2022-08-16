@@ -14,4 +14,4 @@ It features a full-screen slider, CTA buttons, pricing tables, scrolling animati
 This is a Tailwind CSS website template, so you know it follows all the latest trends. In other words, your
 website will run smoothly on modern devices and platforms.
 
-![Screenshot 2022-08-16 at 23-48-00 The Fitness Pack](https://user-images.githubusercontent.com/95566104/184957623-4b01098b-5ca6-45b6-b4f8-1362d926d9a1.png)
+![Screenshot 2022-08-16 at 23-58-14 The Fitness Pack](https://user-images.githubusercontent.com/95566104/184959825-cccf24b4-1257-435b-bbb1-03244a66144d.png)
